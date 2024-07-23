@@ -2,6 +2,12 @@ code filename to open a file in vs code
 git init -Initialized empty Git repository
 ls -a see all thr directories
 git status  to see the satus of repository
-git add filename to tack files
+git add filename  / git add .(all)  = to tack files
 git commit -m message commit changes
 git log log the commit
+git diff filename see the changes
+git checkout filename remove the last changes that made 
+
+
+git remote add origin <git repo url> create remote repo
+git push -u origin main  push local repo to remote repo
