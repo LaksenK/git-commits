@@ -1,0 +1,7 @@
+code filename to open a file in vs code
+git init -Initialized empty Git repository
+ls -a see all thr directories
+git status  to see the satus of repository
+git add filename to tack files
+git commit -m message commit changes
+git log log the commit
