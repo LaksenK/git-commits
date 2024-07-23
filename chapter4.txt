@@ -8,6 +8,14 @@ git log log the commit
 git diff filename see the changes
 git checkout filename remove the last changes that made 
 
-
+git branch -M main create the main branch
 git remote add origin <git repo url> create remote repo
 git push -u origin main  push local repo to remote repo
+
+
+touch .gitignore creating a secret file
+git rm --cached -r .remove all files in drirectory
+
+git branch branchname - create a new branch 
+git branch - see all branches
+git checkout alien-plot - switch to branch 
